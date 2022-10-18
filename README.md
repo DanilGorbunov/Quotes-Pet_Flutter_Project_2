@@ -3,7 +3,7 @@ Quotes app: 2.5 weeks of implementation
 
 My Second Сommercial Flutter Project witch I'm going to add to AppStore/Google Play
 
-![Optional Text](/assets/images/markdoqn.jpeg)
+![Optional Text](/assets/images/markdown.jpeg)
 
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
 

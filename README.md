@@ -16,4 +16,4 @@ The project is under development. This is just the initial part of the code. At 
 
 Watch the video by clicking on the image below
 
-[<img alt="alt_text" width="300px" src="xmotive/assets/Images/basic/screens.png" />](https://youtube.com/shorts/0yrAIc6i8g4)
+[<img alt="alt_text" width="300px" src="xmotive/assets/Images/basic/screens.png" />](https://youtu.be/tiAL2EynRVY)

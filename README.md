@@ -1,7 +1,7 @@
 Xmotive
 
 # Quotes_Flutter_Project - currently will get ready for AppStore
-Quotes app: 2.5 weeks of implementation 
+Quotes app: 3 weeks of implementation 
 
 My Second Сommercial Flutter Project witch I'm going to add to AppStore/Google Play
 

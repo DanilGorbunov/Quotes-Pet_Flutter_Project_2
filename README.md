@@ -14,7 +14,7 @@ The project is under development. This is just the initial part of the code. At 
 3) To navigate my main page I use a Provider. I don't create many pages - I have one page. 
 4) Changing pictures is also a subscription to the Provider. All pictures are stored in their Lists. When you click on the button, the index is passed to the function and the initial variable is changed 
 5) The share and favorite buttons are not yet ready. I can't figure out how to save the data. Hive...
-6) Widgets - QuoteWidget- need to be refactored. There is no time for a universal widget yet. First I plan to do the unlock button. Logically, after pressing the Continue button, my unlock button will be equal to -true-
+6) Now is ready adding to Favorites and unblock if you but subscription 
 
 Watch the video by clicking on the image below
 
